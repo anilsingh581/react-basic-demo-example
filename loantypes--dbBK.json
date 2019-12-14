@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5ddf73d213b976618fe1d739"},"id":1,"loantype":"Financial News","loandesc":"","loanpageurl":"/financial-news"}
+{"_id":{"$oid":"5ddf73d213b976618fe1d73c"},"id":2,"loantype":"Unsecured Personal Loans","loandesc":"","loanpageurl":"/unsecured-personal-loans"}
+{"_id":{"$oid":"5ddf73d213b976618fe1d73f"},"id":3,"loantype":"Holiday Loans","loandesc":"","loanpageurl":"/holiday-loans"}
+{"_id":{"$oid":"5ddf73d213b976618fe1d742"},"id":4,"loantype":"Home Improvement Loans","loandesc":"","loanpageurl":"/home-improvement-loans"}
+{"_id":{"$oid":"5ddf73d213b976618fe1d745"},"id":5,"loantype":"Payday Loans","loandesc":"","loanpageurl":"/payday-loans"}
+{"_id":{"$oid":"5ddf73d213b976618fe1d748"},"id":6,"loantype":"Poor Credit Loans","loandesc":"","loanpageurl":"/poor-credit-loans"}
+{"_id":{"$oid":"5ddf73d213b976618fe1d74b"},"id":7,"loantype":"Wedding Loans","loandesc":"","loanpageurl":"/wedding-loans"}
+{"_id":{"$oid":"5ddf73d213b976618fe1d74e"},"id":8,"loantype":"Others","loandesc":"","loanpageurl":"/others"}
